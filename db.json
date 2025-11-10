@@ -1,42 +1,44 @@
-[
-  {
-    "id": "checkout-vertical-block-1",
-    "settings": {
-      "type": "vertical-badge-list",
-      "items": [
-        {
-          "icon": "DeliveryFilledIcon",
-          "message": "Delivery within 1-2 business days"
-        },
-        {
-          "icon": "ShieldCheckMarkIcon",
-          "message": "256-bit SSL secure checkout"
-        },
-        {
-          "icon": "ChatIcon",
-          "message": "24/7 customer support available"
-        }
-      ]
+{
+  "blocks": [
+    {
+      "id": "checkout-vertical-block-1",
+      "settings": {
+        "type": "vertical-badge-list",
+        "items": [
+          {
+            "icon": "DeliveryFilledIcon",
+            "message": "Delivery within 1-2 business days"
+          },
+          {
+            "icon": "ShieldCheckMarkIcon",
+            "message": "256-bit SSL secure checkout"
+          },
+          {
+            "icon": "ChatIcon",
+            "message": "24/7 customer support available"
+          }
+        ]
+      }
+    },
+    {
+      "id": "checkout-horizontal-block-1",
+      "settings": {
+        "type": "horizontal-badge-list",
+        "items": [
+          {
+            "icon": "DeliveryFilledIcon",
+            "message": "Delivery within 1-2 business days"
+          },
+          {
+            "icon": "ShieldCheckMarkIcon",
+            "message": "256-bit SSL secure checkout"
+          },
+          {
+            "icon": "ChatIcon",
+            "message": "24/7 customer support available"
+          }
+        ]
+      }
     }
-  },
-  {
-    "id": "checkout-horizontal-block-1",
-    "settings": {
-      "type": "horizontal-badge-list",
-      "items": [
-        {
-          "icon": "DeliveryFilledIcon",
-          "message": "Delivery within 1-2 business days"
-        },
-        {
-          "icon": "ShieldCheckMarkIcon",
-          "message": "256-bit SSL secure checkout"
-        },
-        {
-          "icon": "ChatIcon",
-          "message": "24/7 customer support available"
-        }
-      ]
-    }
-  }
-]
+  ]
+}
