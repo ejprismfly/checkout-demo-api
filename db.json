@@ -6,15 +6,15 @@
         "type": "vertical-badge-list",
         "items": [
           {
-            "icon": "DeliveryFilledIcon",
+            "icon": "delivery",
             "message": "Delivery within 1-2 business days"
           },
           {
-            "icon": "ShieldCheckMarkIcon",
+            "icon": "check",
             "message": "256-bit SSL secure checkout"
           },
           {
-            "icon": "ChatIcon",
+            "icon": "email",
             "message": "24/7 customer support available"
           }
         ]
@@ -26,15 +26,15 @@
         "type": "horizontal-badge-list",
         "items": [
           {
-            "icon": "DeliveryFilledIcon",
+            "icon": "delivery",
             "message": "Delivery within 1-2 business days"
           },
           {
-            "icon": "ShieldCheckMarkIcon",
+            "icon": "check",
             "message": "256-bit SSL secure checkout"
           },
           {
-            "icon": "ChatIcon",
+            "icon": "email",
             "message": "24/7 customer support available"
           }
         ]
